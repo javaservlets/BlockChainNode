@@ -1,0 +1,6 @@
+com/forgerock/blockchain/Block.class
+com/forgerock/blockchain/BlockChainPlugin.class
+com/forgerock/blockchain/BlockWriter.class
+com/forgerock/blockchain/BlockChain.class
+com/forgerock/blockchain/StringUtil.class
+com/forgerock/blockchain/BlockChain$Config.class

@@ -1,0 +1,4 @@
+mvn clean package ; scp ./target/*.jar ../../../../tools/tomcat-7.0.96/webapps/openam/WEB-INF/lib/
+
+
+cd ~/Documents/dev/tools/tomcat-7.0.96/bin 
